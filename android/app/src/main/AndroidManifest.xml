@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="wisata_candi_mrizki_algipari"
+        android:label="wisata_candi_olivia_wijaya2"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
